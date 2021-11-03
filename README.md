@@ -25,11 +25,20 @@ Jupyter notebooks that demonstrate different scenarios related to data analysis,
 ## Table of Contents
 
 * __User Guides__
-  * 
-  * 
+  * [CloudFront](https://github.com/UBC-CIC/Sea_Around_Us_Spatial_Catch/blob/main/docs/00%20-%20CloudFront_setup.md)
+  * [Data Access](https://github.com/UBC-CIC/Sea_Around_Us_Spatial_Catch/blob/main/docs/01%20-%20Access%20data%20from%20S3.md)
+  * [Data Analysis](https://github.com/UBC-CIC/Sea_Around_Us_Spatial_Catch/blob/main/docs/02%20-%20Data%20analysis%20in%20notebooks.md)
+  * [Visualizations](https://github.com/UBC-CIC/Sea_Around_Us_Spatial_Catch/blob/main/docs/03%20-%20Create%20visualizations%20in%20notebooks.md)
+  * [Create Maps](https://github.com/UBC-CIC/Sea_Around_Us_Spatial_Catch/blob/main/docs/04%20-%20Create%20maps%20in%20notebooks.md)
+  * [Download maps](https://github.com/UBC-CIC/Sea_Around_Us_Spatial_Catch/blob/main/docs/05%20-%20Download%20maps%20from%20notebooks.md)
+  * [SageMaker](https://github.com/UBC-CIC/Sea_Around_Us_Spatial_Catch/blob/main/docs/06%20-%20SageMaker_setup.md)
+  * [Tools & Technologies](https://github.com/UBC-CIC/Sea_Around_Us_Spatial_Catch/blob/main/docs/07%20-%20Tools_and_technologies.md)
 * __Example Notebooks__
-  * 
-  * 
+  * [S3 Data Access via CloudFront](https://github.com/UBC-CIC/Sea_Around_Us_Spatial_Catch/blob/main/notebooks/01%20-%20test_cloudfront_data_access.ipynb)
+  * [Interactive widgets](https://github.com/UBC-CIC/Sea_Around_Us_Spatial_Catch/blob/main/notebooks/02%20-%20test_ipywidgets_interaction.ipynb)
+  * [Working with shape files](https://github.com/UBC-CIC/Sea_Around_Us_Spatial_Catch/blob/main/notebooks/03%20-%20test_geopandas_shape_files.ipynb)
+  * [Working with Maps](https://github.com/UBC-CIC/Sea_Around_Us_Spatial_Catch/blob/main/notebooks/04%20-%20test_folium_maps.ipynb)
+  * [Visualizations](https://github.com/UBC-CIC/Sea_Around_Us_Spatial_Catch/blob/main/notebooks/05%20-%20test_altair_visualizations.ipynb)
 * __Data Dictionary__
   * [Data dictionary](https://github.com/UBC-CIC/Sea_Around_Us_Spatial_Catch/blob/main/data-dictionary/Data_dictionary.md)
   * [Appendices](https://github.com/UBC-CIC/Sea_Around_Us_Spatial_Catch/blob/main/data-dictionary/Appendices.md)
