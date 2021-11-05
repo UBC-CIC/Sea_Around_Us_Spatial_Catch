@@ -12,7 +12,13 @@ The proposed solution extends the current functionality provided on the website 
 
 As this proposal involves providing access to more details and granular data compared to the website, users are able to select only one fishing entity at a time. Users can choose fishing entities from a list, and the Jupyter notebooks will only load the data related to that selection. For example, when a user selects Canada as a fishing entity – catch data for all the EEZ and half degree cells related to Canada will be available for users for further analysis and visualization. Researchers can also download these Jupyter notebooks containing maps in the form of html files that can be shared enabling easy collaboration.
 
+__Exclusive Economic Zones__
 
+![Map of Exclusive Economic Zones](images/Map_Exclusive_Economic_Zones.png)
+
+__Large Marine Ecosystems__
+
+![Map of Large Marine Ecosystems](images/Map_Large_Marine_Ecosystems.png)
 
 ## User Guides
 
