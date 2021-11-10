@@ -39,6 +39,7 @@ Jupyter notebooks that demonstrate different scenarios related to data analysis,
   * [Download maps](https://github.com/UBC-CIC/Sea_Around_Us_Spatial_Catch/blob/main/docs/05%20-%20Download%20maps%20from%20notebooks.md)
   * [SageMaker](https://github.com/UBC-CIC/Sea_Around_Us_Spatial_Catch/blob/main/docs/06%20-%20SageMaker_setup.md)
   * [Tools & Technologies](https://github.com/UBC-CIC/Sea_Around_Us_Spatial_Catch/blob/main/docs/07%20-%20Tools_and_technologies.md)
+  * [GeoPandas Instructions](https://github.com/UBC-CIC/Sea_Around_Us_Spatial_Catch/blob/main/docs/08%20-%20GeoPandas_Installation_Instructions.md)
 * __Example Notebooks__
   * [S3 Data Access via CloudFront](https://github.com/UBC-CIC/Sea_Around_Us_Spatial_Catch/blob/main/notebooks/01%20-%20test_cloudfront_data_access.ipynb)
   * [Interactive widgets](https://github.com/UBC-CIC/Sea_Around_Us_Spatial_Catch/blob/main/notebooks/02%20-%20test_ipywidgets_interaction.ipynb)
